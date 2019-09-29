@@ -1,0 +1,20 @@
+baseURL = "https://orgrecord.github.io/"
+languageCode = "en-us"
+title = "The Organization of Record"
+theme = "vanilla-bootstrap"
+
+[menu]
+  [[menu.nav]]
+    name = "The Organization of Record"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Resources"
+    pre = "resources"
+    url = "/resources/"
+    weight = 2
+
+[params]
+  footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+

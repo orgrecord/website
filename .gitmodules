@@ -1,0 +1,3 @@
+[submodule "themes/vanilla-bootstrap"]
+	path = themes/vanilla-bootstrap
+	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
